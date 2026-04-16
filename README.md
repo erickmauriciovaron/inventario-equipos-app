@@ -1,6 +1,6 @@
 # Inventario de Equipos de Cómputo
 
-Proyecto final universitario construido con React, Vite, TypeScript, TailwindCSS, React Router y localStorage.
+Proyecto final construido con React, Vite, TypeScript, TailwindCSS, React Router y localStorage.
 
 ## Credenciales de acceso
 - Usuario: `admin`
